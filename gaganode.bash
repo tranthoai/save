@@ -46,7 +46,7 @@ sudo ./apps/gaganode/gaganode config get_json && \
 echo "----------DONE GAGANODE----------"
 
 
-sleep 5
+sleep 1
 
 echo "----------START MESON NETWORK----------" && \
 cd ~ && \
